@@ -77,3 +77,34 @@
   margin-top: 30px;
   width: 300px;
 }
+
+.main-container {
+  padding: 0 10px;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  justify-content: center;
+}
+
+.card-container {
+  background-color: #fff;
+  border-radius: 10px;
+  text-align: center;
+  padding: 20px;
+  box-shadow: 0px 3px 10px 0px rgba(0, 0, 0, 0.2);
+  margin-top: 20px;
+}
+
+.card-container .card-img {
+  width: 300px;
+}
+
+.card-container h1 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+}
+
+.card-container p {
+  font-family: "Open Sans", sans-serif;
+  line-height: 25px;
+}
