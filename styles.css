@@ -30,6 +30,7 @@
 }
 
 .nav-container button {
+  color: var(--dark-cyan);
   font-family: "Open Sans", sans-serif;
   font-weight: 700;
   width: 100px;
@@ -51,11 +52,13 @@
 }
 
 .header-content h1 {
+  color: var(--dark-cyan);
   font-family: "Poppins", sans-serif;
   font-weight: 600;
 }
 
 .header-content p {
+  color: var(--grayish-blue);
   font-family: "Open Sans", sans-serif;
   font-size: 18px;
   line-height: 25px;
@@ -105,11 +108,13 @@
 }
 
 .card-container h1 {
+  color: var(--dark-cyan);
   font-family: "Poppins", sans-serif;
   font-weight: 600;
 }
 
 .card-container p {
+  color: var(--grayish-blue);
   font-family: "Open Sans", sans-serif;
   font-size: 18px;
   line-height: 25px;
